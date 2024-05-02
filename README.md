@@ -3,7 +3,7 @@
 <details>
 <summary>About Me</summary>
 <br>
-I have a bachelor's degree in electrical engineering and currently focused on the field of Data Science. I'm a partner at G C DE MEDEIROS E COMPANHIA LTDA and Founder  of OURODATA SOFTWARE E ANALISES LTDA.
+I have a bachelor's degree in electrical engineering and certified in Data Science by DataCamp. I'm a partner at G C DE MEDEIROS E COMPANHIA LTDA and Founder  of OURODATA SOFTWARE E ANALISES LTDA.
 </br>
 <br>
 My focus with data science is to create integrated systems using artificial inteligence and statistical analysis to create a data driven enviroment for for companies and individuals
@@ -58,3 +58,7 @@ My focus with data science is to create integrated systems using artificial inte
 
 ### Hadwares
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+### Certifications
+[DataScientist](https://www.datacamp.com/certificate/DS0028654024435)
