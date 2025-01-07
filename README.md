@@ -1,7 +1,7 @@
 # Hi, I'm Gisleudo 👋
 I'm a Data Scientist and Electrical Engineer passionate about leveraging AI and statistical analysis to transform businesses through data-driven solutions.
 <details>
-<summary>About Me 🎯</summary>
+<summary>About Me</summary>
 <br>
 
 - 🎓 Bachelor's degree in Electrical Engineering
@@ -10,10 +10,11 @@ I'm a Data Scientist and Electrical Engineer passionate about leveraging AI and 
 - 🚀 Founder of OURODATA SOFTWARE E ANALISES LTDA
 - 🔬 Specialized in experimental design, A/B testing, and statistical analysis
 - 🤖 Experienced in implementing AI solutions for business
-- 📈 Proficient in time series analysis and predictive modelingA
+- 📈 Proficient in time series analysis and predictive modeling
 - 🔬 Focused on creating integrated systems that combine AI and statistical analysis
 - 🌱 Always learning and exploring new technologies
 </br>
+
 <br>
 My focus with data science is to create integrated systems using artificial inteligence and statistical analysis to create a data driven enviroment for for companies and individuals
 </br>
@@ -26,13 +27,14 @@ My focus with data science is to create integrated systems using artificial inte
 
 ## Expertise 🎯
 
-- **Statistical Analysis**: Hypothesis testing, A/B testing, Monte Carlo simulations
-- **Machine Learning**: Time series analysis, NLP, deep learning, hyperparameter tuning
-- **Data Engineering**: Web scraping, API integration, data cleaning, feature engineering
-- **Business Analytics**: Trend analysis, survival analysis, experimental design
-- **Deep Learning**: Image processing, advanced Keras implementations
-- **Big Data**: PySpark, distributed computing
-- **Finance**: Python for financial analysis, quantitative modeling
+- **Statistical Analysis**: Expertise in hypothesis testing, A/B testing, and Monte Carlo simulations to derive actionable insights and validate business strategies.
+- **Machine Learning**: Proficient in time series forecasting, natural language processing (NLP), deep learning architectures, and advanced hyperparameter optimization techniques.
+- **Data Engineering**: Skilled in web scraping, API integration, data cleaning, and feature engineering to ensure robust and scalable data pipelines.
+- **Business Analytics**: Conduct trend analyses, survival analyses, and designing experiments to inform strategic decision-making.
+- **Deep Learning**: Image processing and implementing solutions using Keras and other frameworks.
+- **Big Data**: Experienced in leveraging PySpark and distributed computing to handle large-scale datasets efficiently.
+- **Finance**: Proficiency in Python for financial analysis, including quantitative modeling and risk assessment.
+
 
 ## Connect with Me 🤝
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisleudo-cortez-882806232/)
